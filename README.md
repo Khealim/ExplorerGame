@@ -15,5 +15,6 @@
 
 - Control the black box by pressing up-down left-right
 - Catch the red box
+- Your score is refreshed in the 8th row file named score.png
 
 ![kép](https://github.com/Khealim/ExplorerGame/assets/83818858/e603e4ce-ae7f-4ce1-9ff0-c81d76cc0f72)
