@@ -8,7 +8,7 @@
 - pip install keyboard
 
 # Gameplay
-- Run game.py
+- Run game.py (python game.py)
 - Open the Game folder and resize it so in one row only 7 files are fitting like in the picture below
 
 # Enjoy the game
