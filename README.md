@@ -3,8 +3,8 @@ Save the game.py somewhere and create a Folder named Game in the same location
 
 # Install the following packages:
 
-pip install Pillow
-pip install keyboard
+- pip install Pillow
+- pip install keyboard
 
 # Gameplay
 Run game.py
